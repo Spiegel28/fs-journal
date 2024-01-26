@@ -2,5 +2,5 @@
 
 https://github.com/Spiegel28/Website_Lab
 https://github.com/Spiegel28/Clone_Websites
-* **[Repo](https://github.com/Spiegel28/<ASSIGNMENT_REPO>)**
+<!-- On Bridons Github -->
 * **[Repo](https://github.com/Spiegel28/<ASSIGNMENT_REPO>)**
