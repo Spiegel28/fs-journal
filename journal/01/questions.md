@@ -9,7 +9,7 @@
     > A psuedo class is used to define the special state of an element. I think the most common you will see are for buttons. 
 
 04. What is ***specificity*** and how might you use it to your benefit?
-    > Order of r`elevance based on the type and order of CSS selectors. You can use specificity to your advantage when styling a whole page or a specific element. 
+    > Order of relevance based on the type and order of CSS selectors. You can use specificity to your advantage when styling a whole page or a specific element. 
 
 05. What problems do you think you could run into if you over-utilized the `!important` feature?
     > Too many uses of the feature can cause major complications in your style sheet and debugging will  be very difficult the bigger the sheet gets.

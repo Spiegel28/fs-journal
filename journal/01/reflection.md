@@ -5,4 +5,5 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 - What went well this week?
 - What did you learn that was a shock or surprise?
 - What are you struggling with?
+Right now I am struggling with where I should put justify-content, align-items, etc.. I cant quite grasp why it should go in the container or row or column and why one over the other. 
 - What would you count as a victory?
