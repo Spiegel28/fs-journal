@@ -1,6 +1,6 @@
 ## Afternoon Assignment Links
 
 * **https://github.com/Spiegel28/BurgerShack_wk5**
-* **[Repo](https://github.com/Spiegel28/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/Spiegel28/<ASSIGNMENT_REPO>)**
+* **https://github.com/Spiegel28/winter24_gregslist_asyn**
+* **https://github.com/Spiegel28/Da_Planets**
 * **[Repo](https://github.com/Spiegel28/<ASSIGNMENT_REPO>)**
